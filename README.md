@@ -1,17 +1,18 @@
 # Gene Expression Machine Learning Marfan Syndrome 
 This project uses gene expression data to build machine learning models that help classify Marfan syndrome versus healthy samples.
 
-Research Question: How accurately can machine learning models classify Marfan Syndrome from healthy individuals based on the gene expression of immune-related genes?
+Research Question: How accurately can machine learning models classify Marfan Syndrome from individuals based on the gene expression of immune-related genes?
 
 Goals: 
-- Clean and preprocess RNA sequence data
-- Visualize key gene expression trends
+- Clean and preprocess mRNA data
+- Visualize key trends in gene expression + immune genes
 - Build classifers using scikit-learn
 - Interpret biological significance of results
 
 Tools:
 - Python(pandas, matplotlib, seaborn, scikit-learn, etc.)
 - Google Colab
+- Google Drive
 - GitHub
 
 Repository Structure:
